@@ -7,3 +7,5 @@ This application is a pokedex in chatbox format. That is, to get information fro
 - What are the abilities of <some pokemon>?
 - What came before <some pokemon>?
 - What’s the evolution chain of <some pokemon>?
+  
+Used DialogFlow to implement a chatbot and ngrok to export the local server.
